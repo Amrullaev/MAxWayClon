@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tv_category_name"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dimen_12dp"
+    android:background="@drawable/bg_category_item_selected"
+    android:fontFamily="@font/sfbold"
+    android:paddingHorizontal="@dimen/dimen_16dp"
+    android:paddingVertical="@dimen/dimen_8dp"
+    android:textColor="@color/white"
+    android:textSize="15sp"
+    tools:text="Burgers"
+
+
+    />
+
