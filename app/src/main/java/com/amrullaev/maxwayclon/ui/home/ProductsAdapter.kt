@@ -80,7 +80,7 @@ class ProductsAdapter : ListAdapter<ProductWithCount, ProductsAdapter.ViewHolder
     override fun onBindViewHolder(holder: ViewHolder, position: Int) = holder.onBind()
 }
 
-private val itemCallback = object : DiffUtil.ItemCallback<ProductWithCount>() {
+ val itemCallback = object : DiffUtil.ItemCallback<ProductWithCount>() {
     override fun areItemsTheSame(oldItem: ProductWithCount, newItem: ProductWithCount) =
         oldItem == newItem
 

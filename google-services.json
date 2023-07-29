@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "722028428189",
+    "project_id": "maxwayclone-4346a",
+    "storage_bucket": "maxwayclone-4346a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722028428189:android:65f2396ff0daebbe64cd74",
+        "android_client_info": {
+          "package_name": "com.amrullaev.maxwayclon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722028428189-1mbr66egj8gk954jutrd26nmmk3ea6b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amrullaev.maxwayclon",
+            "certificate_hash": "b057612c0a0ca83ebeea6918d55975f6a019175d"
+          }
+        },
+        {
+          "client_id": "722028428189-b7mp6mu1qj6jho6lc0dje30628221u3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgVISLQfyUU-Z5u8MWv_IB19qxY8Y9vR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722028428189-b7mp6mu1qj6jho6lc0dje30628221u3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

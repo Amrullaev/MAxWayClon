@@ -6,8 +6,7 @@ import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn
 import dagger.hilt.android.components.ViewModelComponent
-import uz.gita.online_shopping.directions.*
-import uz.gita.online_shopping.directions.impl.*
+
 
 @Module
 @InstallIn(ViewModelComponent::class)
